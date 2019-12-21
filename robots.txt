@@ -1,5 +1,5 @@
 ﻿User-agent: *
-Sitemap: https://iscelenie-dushi-tela.itsinsta.site/sitemap.xml
+Sitemap: https://iscelenie-dushi-tela.ru/sitemap.xml
 Disallow: /main.html
 Disallow: /main
 Disallow: /stories.html
